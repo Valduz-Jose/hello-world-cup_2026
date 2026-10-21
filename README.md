@@ -55,6 +55,6 @@ Este repo contiene la **página web oficial** del evento: una landing estática 
 
 <div align="center">
 
-Hecho con ☕ por **Movimiento Alpha** (egresados UNET)
+Hecho con ☕ por **Alejandro Valduz** (+ egresados UNET + Movimiento Alpha)
 
 </div>
