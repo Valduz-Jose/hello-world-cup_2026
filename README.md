@@ -10,7 +10,7 @@
 ![Fecha](https://img.shields.io/badge/11_dic_2026-0A1734?style=for-the-badge)
 ![Sede](https://img.shields.io/badge/UNET-San_Cristóbal-EC9140?style=for-the-badge)
 
-[**🌐 Ver la web**](https://hello-world-cup2026.vercel.app) · [**📝 Inscríbete**](https://forms.gle/MnKBdzUtYbZ7KDX57)
+[**🌐 Ver la web**](https://hello-world-cup2026.vercel.app) · [**📝 Inscríbete**](https://docs.google.com/forms/d/e/1FAIpQLSdgH5VGzD9OsPYieAKva9bIqEyG_g3yJnYb0am9b7PY2BiGCw/viewform)
 
 </div>
 
@@ -46,7 +46,7 @@ Este repo contiene la **página web oficial** del evento: una landing estática 
 
 ## 🤝 Patrocinio
 
-¿Quieres llevar tu marca frente al talento tech del Táchira? Escríbenos:
+¿Quieres llevar tu marca frente al talento tech del Táchira? Mira los niveles (desde $20) en [/patrocinio](https://hello-world-cup2026.vercel.app/patrocinio/) y escríbenos:
 
 - **WhatsApp:** 0414-751 9346
 - **Instagram:** [@helloworldcup_](https://instagram.com/helloworldcup_)
